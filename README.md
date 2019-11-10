@@ -1,4 +1,6 @@
-# JavaPostgresConnection
+# Java Postgres Connection
+# Java code to connect with postgres db
+# Java postgres database
 code with postgres db connection implementation using java code
 
 Steps to connect.
